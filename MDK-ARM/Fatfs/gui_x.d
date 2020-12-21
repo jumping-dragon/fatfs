@@ -1,0 +1,9 @@
+fatfs\gui_x.o: ../Middlewares/ST/STemWin/OS/GUI_X.c
+fatfs\gui_x.o: ../Middlewares/ST/STemWin/inc/GUI.h
+fatfs\gui_x.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+fatfs\gui_x.o: ../Middlewares/ST/STemWin/inc/GUI_ConfDefaults.h
+fatfs\gui_x.o: ../Inc/GUIConf.h
+fatfs\gui_x.o: ../Middlewares/ST/STemWin/inc/GUI_Type.h
+fatfs\gui_x.o: ../Middlewares/ST/STemWin/inc/LCD.h
+fatfs\gui_x.o: ../Middlewares/ST/STemWin/inc/Global.h
+fatfs\gui_x.o: ../Middlewares/ST/STemWin/inc/GUI_Version.h
